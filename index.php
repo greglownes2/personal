@@ -2,7 +2,7 @@
 echo <<<EOT
 <html>
 <body>
-personal
+personal - chg
 <br>
 update from debian
 </body>
